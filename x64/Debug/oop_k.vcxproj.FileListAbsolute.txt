@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\oop_k\oop_k\x64\Debug\oop_k.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\oop_k\oop_k\x64\Debug\oopk.MyForm.resources
+C:\Users\User\source\repos\oop_k\oop_k\x64\Debug\oop_k.vcxproj.GenerateResource.cache
